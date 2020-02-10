@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Bold Mtav";
+  src: url("fonts/AS\ Grammatika-Bold_Mtav.otf");
+}
+
+@font-face {
+  font-family: "Bold Nusx";
+  src: url("fonts/AS\ Grammatika-Bold_nusx.otf");
+}
+
+@font-face {
+  font-family: "Mtav";
+  src: url("fonts/AS\ Grammatika-Regular_Mtav.otf");
+}
+
+@font-face {
+  font-family: "Nusx";
+  src: url("fonts/AS\ Grammatika-Nusx.otf");
+}
