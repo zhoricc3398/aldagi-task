@@ -262,7 +262,7 @@
 .safey-match {
   max-width: 400px;
   position: absolute;
-  right: -10px;
+  right: 0;
   top: 38%;
 }
 
@@ -721,6 +721,17 @@ footer {
   text-align: center;
   padding: 46px 0 48px;
   background-color: #efefef;
+}
+
+/* made for personal use on 1680x1050 screen */
+@media screen and (max-width: 1680px) {
+  .ad-wrap {
+    margin-top: 150px;
+  }
+
+  .ad {
+    padding-bottom: 200px;
+  }
 }
 
 @media screen and (max-width: 1440px) {
